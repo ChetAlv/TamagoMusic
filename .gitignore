@@ -41,7 +41,7 @@ jspm_packages
 bin
 
 # Environment variables
-.env
+#.env
 # Application Data
 data
 *.db
