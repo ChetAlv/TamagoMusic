@@ -34,7 +34,7 @@ class HelpModule extends BotModule
             [#{l.help.commands}](https://www.focabot.xyz/commands?#{qs}) / \
             [#{l.help.filters}](https://www.focabot.xyz/filters?#{qs}) / \
             [#{l.help.manual}](https://www.focabot.xyz/docs?#{qs}) / \
-            [#{l.help.donate}](https://www.focabot.xyz/donate?#{qs}) / \
+            [#{l.help.donate}](https://www.focabot.xyz/donate?#{qs})
             """
           }
         ]
