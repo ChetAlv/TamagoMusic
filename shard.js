@@ -6,8 +6,8 @@ const ffmpeg = require('ffmpeg-downloader')
 const Azarasi = require('azarasi')
 
 const focaBot = new Azarasi({
-  name: 'FocaBot',
-  version: '1.1.0 (Fabulous Flamenco)',
+  name: 'Tamago-Music',
+  version: '0.1.4 (alpha)',
   prefix: process.env.BOT_PREFIX,
   token: process.env.BOT_TOKEN,
   owner: JSON.parse(process.env.BOT_OWNER),
@@ -17,7 +17,7 @@ const focaBot = new Azarasi({
   debug: !!process.env.DEBUG,
   modulePath: path.join(__dirname, 'modules/'),
   localePath: path.join(__dirname, 'locales/'),
-  locale: 'en_US',
+  locale: 'es_ES',
   watch: true,
   dbFile: process.env.DB_FILE || 'data.db',
   dbPort: process.env.DB_PORT || 12920,
