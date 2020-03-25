@@ -5,7 +5,7 @@ class StatusModule extends BotModule
     else
       Core.bot.user.setPresence {
         status: 'online'
-        game: name: "#{Core.properties.prefix}help | focabot.xyz"
+        game: name: "#{Core.properties.prefix}help | Web en construccion."
       }
 
 module.exports = StatusModule
