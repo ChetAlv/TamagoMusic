@@ -35,13 +35,12 @@ class HelpModule extends BotModule
             [#{l.help.filters}](https://www.focabot.xyz/filters?#{qs}) / \
             [#{l.help.manual}](https://www.focabot.xyz/docs?#{qs}) / \
             [#{l.help.donate}](https://www.focabot.xyz/donate?#{qs}) / \
-            [GitHub](https://github.com/FocaBot)
             """
           }
         ]
         footer:
-          icon_url: 'https://www.gravatar.com/avatar/93f31b88845bcdca6bcfa908ebeef4ab'
-          text: 'Made by TheBITLINK#3141'
+          icon_url: 'https://cdn.discordapp.com/avatars/319965973836988418/3bec9c258b4ec10a5ad9c521acf52e8e.jpg?size=1024'
+          text: 'Hecho por ChetAlv#0394'
       }
 
 module.exports = HelpModule
