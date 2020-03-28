@@ -5,9 +5,9 @@ generic:
   noResults: "Sin resultados."
   success: "¡Hecho!"
   saved: "¡Guardado!"
-  sauceBtn: "\\[click para la salsa\\]"
-  helpBtn: "\\[click para ayuda\\]"
-  donateBtn: "\\[donar\\]"
+  sauceBtn: "\\[Click para ir al enlace\\]"
+  helpBtn: "\\[Click para recibir ayuda\\]"
+  donateBtn: "\\[Donar\\]"
   commandUsage: "Uso:"
   cooldown: "Este comando tiene un cooldown, intenta de nuevo en unos segundos..."
 player:
@@ -88,8 +88,8 @@ player:
 admin:
   languageChanged: "Idioma establecido a {1}!"
   cantDelete: "No se pudieron eliminar los mensajes. Revisa si el bot tiene permiso."
-  restarting: "FocaBot se está reiniciando..."
-  updating: "FocaBot se está actualizando..."
+  restarting: "Tamago se está reiniciando..."
+  updating: "Tamago se está actualizando..."
   ytdlUpdate: "Descargando la última versión de youtube-dl..."
   ytdlUpdated: "¡Youtube-dl {1} se descargó con éxito!"
   ytdlUpdateError: "No se pudo descargar la última versión de youtube-dl, por favor, inténtalo de nuevo."
